@@ -17,4 +17,4 @@ models/conexion.php
 ```
 ### Notas:
 
-Para su uso modo probar en modo produccion en un servidor o crear un servidor local y probar.
+Para su uso, probar en modo produccion en un servidor o crear un servidor local y probar.
